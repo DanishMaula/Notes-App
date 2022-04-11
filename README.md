@@ -14,6 +14,7 @@ In this project I have learn about
 - Create and implement animation on action navigation graph
 - Data Binding 
 - Create Read Update Delete(CRUD) using Database
+- DB browser for SQLite
 - Sort Data by Priority (EnumClass)
 - MVVM android app architecture
 - ViewModel
