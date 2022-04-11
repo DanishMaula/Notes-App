@@ -18,3 +18,6 @@ In this project I have learn about
 - Sort Data by Priority (EnumClass)
 - MVVM android app architecture
 - ViewModel
+
+
+< img src="/images/Screenshot 1.png"/>
